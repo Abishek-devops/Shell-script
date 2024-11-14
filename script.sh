@@ -12,5 +12,3 @@ set -x #debug mode
 df -h #Disk space
 nproc #CPU space
 free -g #RAM space
-
-########################################
